@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samfitz13
 - 👀 I’m interested in Javascript Development, Blogging, Formula 1, Music, Movies
-- 🌱 I’m currently learning Full MERN stack development as well as Laravel for web applications
+- 🌱 I’m currently using XERN stack development as well as Laravel for web applications
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me here or @therealsamfitz on most platforms
 
